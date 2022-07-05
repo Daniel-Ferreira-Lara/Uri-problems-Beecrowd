@@ -35,7 +35,7 @@ int main()
 }
 //
 //
-//Funciona, mass é lento demais
+// Funciona, mass é lento demais
 /*
 #include <stdio.h>
 #include <string.h>
